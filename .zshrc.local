@@ -1,0 +1,6 @@
+# Load all Local dotfiles
+for DOTFILE in ~/.config/local/*.zsh; do
+	[ -r "$DOTFILE" ] && [ -f "$DOTFILE" ] && source "$DOTFILE";
+done;
+unset DOTFILE;
+
