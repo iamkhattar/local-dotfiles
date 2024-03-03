@@ -12,7 +12,7 @@ Install Public Dotfiles from [https://github.com/iamkhattar/dotfiles](https://gi
 
 ## Installation
 
-1. Clone the dotfiles into the local repository:
+1. Clone the dotfiles into the local directory:
 
     ```bash
     git clone https://github.com/iamkhattar/local-dotfiles.git ~/.dotfiles/local
